@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  blobfish:
+  - apiVersion: v1
+    created: "2022-01-18T17:34:22.629155578Z"
+    description: First attempt of kubernetes chart creation
+    digest: 57749045b57823f619dc4c28cc8f95683d53ac8c696cfeb8d7d04e5b8a272a96
+    home: URL of the project
+    keywords:
+    - blobfish
+    name: blobfish
+    sources:
+    - To add the Github URLs
+    urls:
+    - https://akyumurkov.github.io/GHGA-charts/blobfish-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-18T17:34:22.628610084Z"
